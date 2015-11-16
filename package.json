@@ -1,0 +1,20 @@
+{
+  "name": "tern-jasminematchers",
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "jasminematchers.js",
+  "author": "ik9999",
+  "description": "A Tern plugin adding support for Jasmine-Matchers(JamieMason/Jasmine-Matchers on github).",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angelozerr/tern-jasmine.git"
+  },
+  "dependencies": {
+    "tern": "^0.16.0"
+  }, 
+  "keywords": [
+    "tern",
+    "jasmine",
+    "jasminematchers"
+  ]
+}
