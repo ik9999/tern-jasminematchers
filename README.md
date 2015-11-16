@@ -3,6 +3,6 @@ A Tern plugin adding [Jasmine-Matchers](https://github.com/JamieMason/Jasmine-Ma
 
 [Npm package](https://www.npmjs.com/package/tern-jasminematchers)
 
-![tern-jasminematchers screenshot](https://raw.githubusercontent.com/ik9999/tern-jasminematchers/master/screenshot.png "tern-jasminematchers screenshot")
+![tern-jasminematchers screenshot](https://cloud.githubusercontent.com/assets/6804575/11194278/3bba3374-8cbc-11e5-8246-03cea0007b3d.png "tern-jasminematchers screenshot")
 
 ### Installation with [tern_for_vim](https://github.com/ternjs/tern_for_vim)
